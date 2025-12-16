@@ -3,7 +3,7 @@
 ## Live URLs
 - Live API URL: http://localhost:3001 (Local deployment ready)
 - Live Web App URL: http://localhost:3000 (Local deployment ready)  
-- GitHub Repository URL: https://github.com/riyaverma/shl-assessment-engine
+- GitHub Repository URL: https://github.com/riya0704/shl-assessment-recommender
 
 ## Quick Start
 ```bash
