@@ -1,0 +1,26 @@
+{
+  "name": "shl-assessment-engine",
+  "version": "1.0.0",
+  "description": "SHL Assessment Recommendation Engine",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "concurrently \"npm run backend\" \"npm run frontend\"",
+    "backend": "cd backend && npm install && npm start",
+    "frontend": "cd frontend && npm install && npm start",
+    "scrape": "cd backend && python scraper.py",
+    "evaluate": "cd backend && node evaluation.js",
+    "predict": "cd backend && node predict.js"
+  },
+  "dependencies": {
+    "axios": "^1.13.2",
+    "concurrently": "^7.6.0"
+  },
+  "keywords": [
+    "shl",
+    "assessment",
+    "recommendation",
+    "rag"
+  ],
+  "author": "Riya Verma",
+  "license": "MIT"
+}

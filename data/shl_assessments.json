@@ -1,0 +1,4558 @@
+[
+  {
+    "name": "JavaScript Assessment - New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript-new/",
+    "description": "Comprehensive JavaScript programming assessment for web developers",
+    "duration": 60,
+    "test_type": [
+      "Technical",
+      "Programming"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "HTML/CSS Assessment - New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/htmlcss-new/",
+    "description": "Frontend web development skills assessment covering HTML and CSS",
+    "duration": 45,
+    "test_type": [
+      "Technical",
+      "Programming"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "CSS3 Assessment - New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/css3-new/",
+    "description": "Advanced CSS3 skills assessment for modern web development",
+    "duration": 40,
+    "test_type": [
+      "Technical",
+      "Programming"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Selenium Assessment - New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/selenium-new/",
+    "description": "Automated testing skills assessment using Selenium framework",
+    "duration": 50,
+    "test_type": [
+      "Technical",
+      "Testing"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "SQL Server Assessment - New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-new/",
+    "description": "Database management and SQL Server skills assessment",
+    "duration": 55,
+    "test_type": [
+      "Technical",
+      "Database"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Automata SQL Assessment - New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-sql-new/",
+    "description": "Advanced SQL programming and database optimization assessment",
+    "duration": 60,
+    "test_type": [
+      "Technical",
+      "Database"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Manual Testing Assessment - New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/manual-testing-new/",
+    "description": "Software testing methodologies and manual testing skills assessment",
+    "duration": 45,
+    "test_type": [
+      "Technical",
+      "Testing"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Administrative Professional Short Form",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/administrative-professional-short-form/",
+    "description": "Administrative skills and office management capabilities assessment",
+    "duration": 30,
+    "test_type": [
+      "Administrative",
+      "Professional"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Verify Numerical Ability",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-numerical-ability/",
+    "description": "Numerical reasoning and mathematical problem-solving assessment",
+    "duration": 25,
+    "test_type": [
+      "Cognitive",
+      "Numerical"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Financial Professional Short Form",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-professional-short-form/",
+    "description": "Financial analysis and accounting skills assessment",
+    "duration": 35,
+    "test_type": [
+      "Financial",
+      "Professional"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Bank Administrative Assistant Short Form",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/bank-administrative-assistant-short-form/",
+    "description": "Banking operations and administrative skills assessment",
+    "duration": 30,
+    "test_type": [
+      "Banking",
+      "Administrative"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Core Java Entry Level - New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/",
+    "description": "Entry-level Java programming skills assessment",
+    "duration": 45,
+    "test_type": [
+      "Programming",
+      "Java"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Java 8 Assessment - New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+    "description": "Java 8 features and advanced programming concepts assessment",
+    "duration": 50,
+    "test_type": [
+      "Programming",
+      "Java"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Core Java Advanced Level - New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/",
+    "description": "Advanced Java programming and enterprise development assessment",
+    "duration": 60,
+    "test_type": [
+      "Programming",
+      "Java"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Interpersonal Communications",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/interpersonal-communications/",
+    "description": "Communication skills and interpersonal effectiveness assessment",
+    "duration": 25,
+    "test_type": [
+      "Soft Skills",
+      "Communication"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Entry Level Sales 7-1",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-7-1/",
+    "description": "Entry-level sales skills and customer interaction assessment",
+    "duration": 40,
+    "test_type": [
+      "Sales",
+      "Customer Service"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Entry Level Sales Gift Out 7-1",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-gift-out-7-1/",
+    "description": "Sales aptitude and customer relationship management assessment",
+    "duration": 35,
+    "test_type": [
+      "Sales",
+      "Customer Service"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Entry Level Sales Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-solution/",
+    "description": "Comprehensive sales skills and business acumen assessment",
+    "duration": 45,
+    "test_type": [
+      "Sales",
+      "Business"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Sales Representative Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-representative-solution/",
+    "description": "Professional sales representative skills and performance assessment",
+    "duration": 50,
+    "test_type": [
+      "Sales",
+      "Professional"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Business Communication Adaptive",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/business-communication-adaptive/",
+    "description": "Business communication and professional writing skills assessment",
+    "duration": 30,
+    "test_type": [
+      "Communication",
+      "Business"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Technical Sales Associate Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/technical-sales-associate-solution/",
+    "description": "Technical sales expertise and product knowledge assessment",
+    "duration": 55,
+    "test_type": [
+      "Sales",
+      "Technical"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "English Comprehension - New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/english-comprehension-new/",
+    "description": "English language comprehension and reading skills assessment",
+    "duration": 30,
+    "test_type": [
+      "Language",
+      "Communication"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Enterprise Leadership Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/enterprise-leadership-report/",
+    "description": "Leadership potential and management capabilities assessment",
+    "duration": 45,
+    "test_type": [
+      "Leadership",
+      "Management"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Occupational Personality Questionnaire OPQ32r",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+    "description": "Comprehensive personality assessment for workplace behavior",
+    "duration": 25,
+    "test_type": [
+      "Personality",
+      "Behavioral"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "OPQ Leadership Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-leadership-report/",
+    "description": "Leadership style and management potential assessment",
+    "duration": 30,
+    "test_type": [
+      "Leadership",
+      "Personality"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "OPQ Team Types and Leadership Styles Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-types-and-leadership-styles-report/",
+    "description": "Team dynamics and leadership effectiveness assessment",
+    "duration": 35,
+    "test_type": [
+      "Leadership",
+      "Team Management"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Enterprise Leadership Report 2-0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/enterprise-leadership-report-2-0/",
+    "description": "Advanced leadership assessment for senior management roles",
+    "duration": 50,
+    "test_type": [
+      "Leadership",
+      "Executive"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Global Skills Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-assessment/",
+    "description": "Cross-cultural competency and global business skills assessment",
+    "duration": 40,
+    "test_type": [
+      "Global",
+      "Cultural"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Verify Verbal Ability Next Generation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-verbal-ability-next-generation/",
+    "description": "Advanced verbal reasoning and language comprehension assessment",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Verbal"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "SHL Verify Interactive Inductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
+    "description": "Interactive logical reasoning and pattern recognition assessment",
+    "duration": 35,
+    "test_type": [
+      "Cognitive",
+      "Logical"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Marketing Assessment - New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/marketing-new/",
+    "description": "Marketing strategy and digital marketing skills assessment",
+    "duration": 45,
+    "test_type": [
+      "Marketing",
+      "Business"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional 7-1 Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-1-solution/",
+    "description": "Professional competencies and workplace effectiveness assessment",
+    "duration": 60,
+    "test_type": [
+      "Professional",
+      "General"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Python Assessment - New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-new/",
+    "description": "Python programming and data analysis skills assessment",
+    "duration": 55,
+    "test_type": [
+      "Programming",
+      "Python"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Microsoft Excel 365 - New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-new/",
+    "description": "Advanced Excel skills and data analysis capabilities assessment",
+    "duration": 40,
+    "test_type": [
+      "Technical",
+      "Office"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Microsoft Excel 365 Essentials - New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-essentials-new/",
+    "description": "Essential Excel skills for business professionals assessment",
+    "duration": 30,
+    "test_type": [
+      "Technical",
+      "Office"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Written English V1",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/written-english-v1/",
+    "description": "Written English proficiency and business writing assessment",
+    "duration": 35,
+    "test_type": [
+      "Language",
+      "Communication"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Writex Email Writing Sales - New",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/writex-email-writing-sales-new/",
+    "description": "Sales email writing and customer communication assessment",
+    "duration": 25,
+    "test_type": [
+      "Communication",
+      "Sales"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Latest browser options",
+    "url": "https://browsehappy.com/",
+    "description": "Online. Worry-free. Upgrade your browser today!",
+    "duration": 30,
+    "test_type": [
+      "General"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Latest Jobs",
+    "url": "https://www.shl.com/careers/jobs/",
+    "description": "Latest Jobs from SHL in Gurgaon (India) Thames Ditton (UK), Sydney, Shanghai and worldwide.",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Personality",
+      "Ability",
+      "Situational",
+      "Knowledge"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Practice Tests",
+    "url": "https://www.shl.com/shldirect/en/practice-tests/",
+    "description": "SHL practice tests and example questions to help you prepare for an upcoming employment assessment.",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Personality",
+      "Ability",
+      "Situational"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Practice Site & Advice",
+    "url": "https://www.shl.com/shldirect/en/practice-tests/",
+    "description": "SHL practice tests and example questions to help you prepare for an upcoming employment assessment.",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Personality",
+      "Ability",
+      "Situational"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Occupational Personality Questionnaire (OPQ)",
+    "url": "https://www.shl.com/products/assessments/personality-assessment/shl-occupational-personality-questionnaire-opq/",
+    "description": "Our occupational personality questionnaire helps you to get accurate, bias-free assessments by matching individual working preferences to business requirements.",
+    "duration": 20,
+    "test_type": [
+      "Cognitive",
+      "Personality",
+      "Ability",
+      "Situational",
+      "Knowledge"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Job-Focused Assessments (JFA)",
+    "url": "https://www.shl.com/products/assessments/job-focused-assessments/",
+    "description": "Measure the skills needed to succeed in any role with pre-packaged skills assessments. Fast and accurate measurement of job-relevant skills.",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Personality",
+      "Ability",
+      "Situational",
+      "Knowledge"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Motivational Questionnaire (MQ)",
+    "url": "https://www.shl.com/products/assessments/personality-assessment/shl-motivation-questionnaire-mq/",
+    "description": "Build an engaged, high-performing workforce using our motivation questionnaire (MQ) by matching individual employee motivation to team and organizational goals.",
+    "duration": 20,
+    "test_type": [
+      "Cognitive",
+      "Personality",
+      "Ability",
+      "Situational",
+      "Knowledge"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Situational Judgment Tests (SJT)",
+    "url": "https://www.shl.com/products/assessments/behavioral-assessments/situation-judgement-tests-sjt/",
+    "description": "Using our Situational Judgment Tests (SJT), you can measure candidates' behavioral fit to a given role by assessing their response to a specific work situation.",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Personality",
+      "Ability",
+      "Situational",
+      "Knowledge"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "SHL Verify",
+    "url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+    "description": "Measure candidates' potential and ability to learn, adapt, and succeed in any role with SHL's cognitive ability tests and assessments.",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Personality",
+      "Ability",
+      "Situational",
+      "Knowledge"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Assessments",
+    "url": "https://www.shl.com/products/assessments/",
+    "description": "Our unmatched portfolio of talent assessment tools helps you to clearly map employees and their skills to specific business needs and outcomes.",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Personality",
+      "Ability",
+      "Situational",
+      "Knowledge"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Behavioral Assessments",
+    "url": "https://www.shl.com/products/assessments/behavioral-assessments/",
+    "description": "SHL's behavioral assessments offer an engaging experience to candidates and help you to identify their behavioral fit to the roles.",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Personality",
+      "Ability",
+      "Situational",
+      "Knowledge"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Cognitive Assessments",
+    "url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+    "description": "Measure candidates' potential and ability to learn, adapt, and succeed in any role with SHL's cognitive ability tests and assessments.",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Personality",
+      "Ability",
+      "Situational",
+      "Knowledge"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Personality Assessments",
+    "url": "https://www.shl.com/products/assessments/personality-assessment/",
+    "description": "Improve your hiring process with science-backed personality assessments that reveal each candidate’s preferences, motivations, and remote-work capability.",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Personality",
+      "Ability",
+      "Situational",
+      "Knowledge"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Skills & Simulations",
+    "url": "https://www.shl.com/products/assessments/skills-and-simulations/",
+    "description": "Measure practical application and knowledge to scale your search for highly skilled candidates using SHL's skills assessments tools and job simulations.",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Personality",
+      "Ability",
+      "Situational",
+      "Knowledge"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Call Center Simulations",
+    "url": "https://www.shl.com/products/assessments/skills-and-simulations/call-center-simulations/",
+    "description": "SHL’s Call Center Simulations and assessment tool helps you to identify agents with the critical competencies and personality in a real-life call center environment.",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Personality",
+      "Ability",
+      "Situational",
+      "Knowledge"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Business Skills",
+    "url": "https://www.shl.com/products/assessments/skills-and-simulations/business-skills/",
+    "description": "With our computer literacy test, assess candidates' Microsoft Office proficiency, such as working with graphs and charts, creating presentations, and more.",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Personality",
+      "Ability",
+      "Situational",
+      "Knowledge"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Coding Simulations",
+    "url": "https://www.shl.com/products/assessments/skills-and-simulations/coding-simulations/",
+    "description": "Shortlist 45% more candidates within half the usual hiring time with our coding skills assessment for full stack, data engineering, front-end and more roles.",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Personality",
+      "Ability",
+      "Situational",
+      "Knowledge"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Technical Skills",
+    "url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+    "description": "SHL Technical Skills assessment helps you to measure knowledge of 180+ technology concepts in less than 15 minutes for Full Stack, Front-end, Data Science, DevOps, and more roles.",
+    "duration": 15,
+    "test_type": [
+      "Cognitive",
+      "Personality",
+      "Ability",
+      "Situational",
+      "Knowledge"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Language Evaluation",
+    "url": "https://www.shl.com/products/assessments/skills-and-simulations/language-evaluation/",
+    "description": "SHL’s AI-powered suite of communication and language proficiency tests automates language assessment, helping you to faster find and hire the right people.",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Personality",
+      "Ability",
+      "Situational",
+      "Knowledge"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "View all SHL Products\nGet the ultimate view of potential with SHL’s unmatched portfolio of assessments and interview technology.",
+    "url": "https://www.shl.com/products/",
+    "description": "SHL products have been carefully designed to produce highly reusable data and to enhance all stages of the talent experience that drive performance and retention.",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Personality",
+      "Ability",
+      "Situational",
+      "Knowledge"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "SHL Certification (OPQ/Verify)",
+    "url": "https://www.shl.com/solutions/services/training-services/personality-and-ability-assessment-training/",
+    "description": "Upon successful completion of this training, you will be certified to administer, interpret, and provide feedback on ability tests and personality assessments.",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Personality",
+      "Ability",
+      "Situational",
+      "Knowledge"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Outsourced Assessments (VADC)",
+    "url": "https://www.shl.com/products/assessments/assessment-and-development-centers/",
+    "description": "Our end-to-end virtual assessment and development centers provide the most efficient and accurate way of identifying potential from anywhere in the world.",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Personality",
+      "Ability",
+      "Situational",
+      "Knowledge"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "HR Priorities\nExplore the latest HR priorities and insights on workforce trends.",
+    "url": "https://www.shl.com/hr-priorities/",
+    "description": "SHL monitors talent trends through partnerships with organizations around the world. Discover evolving HR Priorities and workforce trends.",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Personality",
+      "Ability",
+      "Situational",
+      "Knowledge"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Read Paper",
+    "url": "https://www.shl.com/resources/by-type/whitepapers-and-reports/ai-in-talent-assessment-transparency-trust-and-responsible-innovation/",
+    "description": "How transparent and responsible AI is shaping talent assessment, helping HR teams improve accuracy, efficiency and candidate experience.",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Personality",
+      "Ability",
+      "Situational",
+      "Knowledge"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Latest Jobs",
+    "url": "https://www.shl.com/careers/jobs/",
+    "description": "Latest Jobs from SHL in Gurgaon (India) Thames Ditton (UK), Sydney, Shanghai and worldwide.",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Personality",
+      "Ability",
+      "Situational",
+      "Knowledge"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Practice Tests",
+    "url": "https://www.shl.com/shldirect/en/practice-tests/",
+    "description": "SHL practice tests and example questions to help you prepare for an upcoming employment assessment.",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Personality",
+      "Ability",
+      "Situational"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Practice Site & Advice",
+    "url": "https://www.shl.com/shldirect/en/practice-tests/",
+    "description": "SHL practice tests and example questions to help you prepare for an upcoming employment assessment.",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Personality",
+      "Ability",
+      "Situational"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Apprentice + 8.0 Job Focused Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/apprentice-8-0-job-focused-assessment-4261/",
+    "description": "Apprentice + 8.0 Job Focused Assessment: The Apprentice + 8.0 Job-Focused Assessment is a short, targeted, globally applicable assessment which includes a short cognitive ability measure. This…",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Personality",
+      "Ability",
+      "Situational",
+      "Knowledge"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Apprentice 8.0 Job Focused Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/apprentice-8-0-job-focused-assessment/",
+    "description": "Apprentice 8.0 Job Focused Assessment: The Apprentice 8.0 Job-Focused Assessment is a short, targeted, globally applicable assessment. This assessment is designed for entry-level positions…",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Personality",
+      "Ability",
+      "Situational",
+      "Knowledge"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Practice Tests",
+    "url": "https://www.shl.com/shldirect/en/practice-tests/",
+    "description": "SHL practice tests and example questions to help you prepare for an upcoming employment assessment.",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Personality",
+      "Ability",
+      "Situational"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Numerical Reasoning Test - Sales",
+    "url": "https://www.shl.com/assessments/advanced-numerical-reasoning-test-sales",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Sales roles at advanced level",
+    "duration": 26,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Numerical Reasoning Test - Management",
+    "url": "https://www.shl.com/assessments/advanced-numerical-reasoning-test-management",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Management roles at advanced level",
+    "duration": 25,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Numerical Reasoning Test - Technical",
+    "url": "https://www.shl.com/assessments/advanced-numerical-reasoning-test-technical",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Technical roles at advanced level",
+    "duration": 40,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Numerical Reasoning Test - Customer Service",
+    "url": "https://www.shl.com/assessments/advanced-numerical-reasoning-test-customer service",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Customer Service roles at advanced level",
+    "duration": 41,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Numerical Reasoning Test - Finance",
+    "url": "https://www.shl.com/assessments/advanced-numerical-reasoning-test-finance",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Finance roles at advanced level",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Numerical Reasoning Test - HR",
+    "url": "https://www.shl.com/assessments/advanced-numerical-reasoning-test-hr",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for HR roles at advanced level",
+    "duration": 35,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Numerical Reasoning Test - Marketing",
+    "url": "https://www.shl.com/assessments/advanced-numerical-reasoning-test-marketing",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Marketing roles at advanced level",
+    "duration": 28,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Numerical Reasoning Test - Sales",
+    "url": "https://www.shl.com/assessments/professional-numerical-reasoning-test-sales",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Sales roles at professional level",
+    "duration": 38,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Numerical Reasoning Test - Management",
+    "url": "https://www.shl.com/assessments/professional-numerical-reasoning-test-management",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Management roles at professional level",
+    "duration": 34,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Numerical Reasoning Test - Technical",
+    "url": "https://www.shl.com/assessments/professional-numerical-reasoning-test-technical",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Technical roles at professional level",
+    "duration": 39,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Numerical Reasoning Test - Customer Service",
+    "url": "https://www.shl.com/assessments/professional-numerical-reasoning-test-customer service",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Customer Service roles at professional level",
+    "duration": 28,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Numerical Reasoning Test - Finance",
+    "url": "https://www.shl.com/assessments/professional-numerical-reasoning-test-finance",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Finance roles at professional level",
+    "duration": 31,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Numerical Reasoning Test - HR",
+    "url": "https://www.shl.com/assessments/professional-numerical-reasoning-test-hr",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for HR roles at professional level",
+    "duration": 43,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Numerical Reasoning Test - Marketing",
+    "url": "https://www.shl.com/assessments/professional-numerical-reasoning-test-marketing",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Marketing roles at professional level",
+    "duration": 42,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Numerical Reasoning Test - Sales",
+    "url": "https://www.shl.com/assessments/executive-numerical-reasoning-test-sales",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Sales roles at executive level",
+    "duration": 28,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Numerical Reasoning Test - Management",
+    "url": "https://www.shl.com/assessments/executive-numerical-reasoning-test-management",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Management roles at executive level",
+    "duration": 33,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Numerical Reasoning Test - Technical",
+    "url": "https://www.shl.com/assessments/executive-numerical-reasoning-test-technical",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Technical roles at executive level",
+    "duration": 32,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Numerical Reasoning Test - Customer Service",
+    "url": "https://www.shl.com/assessments/executive-numerical-reasoning-test-customer service",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Customer Service roles at executive level",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Numerical Reasoning Test - Finance",
+    "url": "https://www.shl.com/assessments/executive-numerical-reasoning-test-finance",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Finance roles at executive level",
+    "duration": 37,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Numerical Reasoning Test - HR",
+    "url": "https://www.shl.com/assessments/executive-numerical-reasoning-test-hr",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for HR roles at executive level",
+    "duration": 25,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Numerical Reasoning Test - Marketing",
+    "url": "https://www.shl.com/assessments/executive-numerical-reasoning-test-marketing",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Marketing roles at executive level",
+    "duration": 26,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Numerical Reasoning Test - Sales",
+    "url": "https://www.shl.com/assessments/graduate-numerical-reasoning-test-sales",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Sales roles at graduate level",
+    "duration": 34,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Numerical Reasoning Test - Management",
+    "url": "https://www.shl.com/assessments/graduate-numerical-reasoning-test-management",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Management roles at graduate level",
+    "duration": 42,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Numerical Reasoning Test - Technical",
+    "url": "https://www.shl.com/assessments/graduate-numerical-reasoning-test-technical",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Technical roles at graduate level",
+    "duration": 27,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Numerical Reasoning Test - Customer Service",
+    "url": "https://www.shl.com/assessments/graduate-numerical-reasoning-test-customer service",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Customer Service roles at graduate level",
+    "duration": 41,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Numerical Reasoning Test - Finance",
+    "url": "https://www.shl.com/assessments/graduate-numerical-reasoning-test-finance",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Finance roles at graduate level",
+    "duration": 33,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Numerical Reasoning Test - HR",
+    "url": "https://www.shl.com/assessments/graduate-numerical-reasoning-test-hr",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for HR roles at graduate level",
+    "duration": 34,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Numerical Reasoning Test - Marketing",
+    "url": "https://www.shl.com/assessments/graduate-numerical-reasoning-test-marketing",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Marketing roles at graduate level",
+    "duration": 43,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Numerical Reasoning Test - Sales",
+    "url": "https://www.shl.com/assessments/senior-numerical-reasoning-test-sales",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Sales roles at senior level",
+    "duration": 31,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Numerical Reasoning Test - Management",
+    "url": "https://www.shl.com/assessments/senior-numerical-reasoning-test-management",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Management roles at senior level",
+    "duration": 35,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Numerical Reasoning Test - Technical",
+    "url": "https://www.shl.com/assessments/senior-numerical-reasoning-test-technical",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Technical roles at senior level",
+    "duration": 40,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Numerical Reasoning Test - Customer Service",
+    "url": "https://www.shl.com/assessments/senior-numerical-reasoning-test-customer service",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Customer Service roles at senior level",
+    "duration": 28,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Numerical Reasoning Test - Finance",
+    "url": "https://www.shl.com/assessments/senior-numerical-reasoning-test-finance",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Finance roles at senior level",
+    "duration": 38,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Numerical Reasoning Test - HR",
+    "url": "https://www.shl.com/assessments/senior-numerical-reasoning-test-hr",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for HR roles at senior level",
+    "duration": 25,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Numerical Reasoning Test - Marketing",
+    "url": "https://www.shl.com/assessments/senior-numerical-reasoning-test-marketing",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Marketing roles at senior level",
+    "duration": 40,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Numerical Reasoning Test - Sales",
+    "url": "https://www.shl.com/assessments/junior-numerical-reasoning-test-sales",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Sales roles at junior level",
+    "duration": 40,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Numerical Reasoning Test - Management",
+    "url": "https://www.shl.com/assessments/junior-numerical-reasoning-test-management",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Management roles at junior level",
+    "duration": 28,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Numerical Reasoning Test - Technical",
+    "url": "https://www.shl.com/assessments/junior-numerical-reasoning-test-technical",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Technical roles at junior level",
+    "duration": 34,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Numerical Reasoning Test - Customer Service",
+    "url": "https://www.shl.com/assessments/junior-numerical-reasoning-test-customer service",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Customer Service roles at junior level",
+    "duration": 29,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Numerical Reasoning Test - Finance",
+    "url": "https://www.shl.com/assessments/junior-numerical-reasoning-test-finance",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Finance roles at junior level",
+    "duration": 26,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Numerical Reasoning Test - HR",
+    "url": "https://www.shl.com/assessments/junior-numerical-reasoning-test-hr",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for HR roles at junior level",
+    "duration": 31,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Numerical Reasoning Test - Marketing",
+    "url": "https://www.shl.com/assessments/junior-numerical-reasoning-test-marketing",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Marketing roles at junior level",
+    "duration": 32,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Numerical Reasoning Test - Sales",
+    "url": "https://www.shl.com/assessments/intermediate-numerical-reasoning-test-sales",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Sales roles at intermediate level",
+    "duration": 32,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Numerical Reasoning Test - Management",
+    "url": "https://www.shl.com/assessments/intermediate-numerical-reasoning-test-management",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Management roles at intermediate level",
+    "duration": 27,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Numerical Reasoning Test - Technical",
+    "url": "https://www.shl.com/assessments/intermediate-numerical-reasoning-test-technical",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Technical roles at intermediate level",
+    "duration": 35,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Numerical Reasoning Test - Customer Service",
+    "url": "https://www.shl.com/assessments/intermediate-numerical-reasoning-test-customer service",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Customer Service roles at intermediate level",
+    "duration": 35,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Numerical Reasoning Test - Finance",
+    "url": "https://www.shl.com/assessments/intermediate-numerical-reasoning-test-finance",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Finance roles at intermediate level",
+    "duration": 38,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Numerical Reasoning Test - HR",
+    "url": "https://www.shl.com/assessments/intermediate-numerical-reasoning-test-hr",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for HR roles at intermediate level",
+    "duration": 40,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Numerical Reasoning Test - Marketing",
+    "url": "https://www.shl.com/assessments/intermediate-numerical-reasoning-test-marketing",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Marketing roles at intermediate level",
+    "duration": 35,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Verbal Reasoning Assessment - Sales",
+    "url": "https://www.shl.com/assessments/advanced-verbal-reasoning-assessment-sales",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Sales roles at advanced level",
+    "duration": 31,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Verbal Reasoning Assessment - Management",
+    "url": "https://www.shl.com/assessments/advanced-verbal-reasoning-assessment-management",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Management roles at advanced level",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Verbal Reasoning Assessment - Technical",
+    "url": "https://www.shl.com/assessments/advanced-verbal-reasoning-assessment-technical",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Technical roles at advanced level",
+    "duration": 45,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Verbal Reasoning Assessment - Customer Service",
+    "url": "https://www.shl.com/assessments/advanced-verbal-reasoning-assessment-customer service",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Customer Service roles at advanced level",
+    "duration": 46,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Verbal Reasoning Assessment - Finance",
+    "url": "https://www.shl.com/assessments/advanced-verbal-reasoning-assessment-finance",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Finance roles at advanced level",
+    "duration": 35,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Verbal Reasoning Assessment - HR",
+    "url": "https://www.shl.com/assessments/advanced-verbal-reasoning-assessment-hr",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for HR roles at advanced level",
+    "duration": 40,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Verbal Reasoning Assessment - Marketing",
+    "url": "https://www.shl.com/assessments/advanced-verbal-reasoning-assessment-marketing",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Marketing roles at advanced level",
+    "duration": 33,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Verbal Reasoning Assessment - Sales",
+    "url": "https://www.shl.com/assessments/professional-verbal-reasoning-assessment-sales",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Sales roles at professional level",
+    "duration": 43,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Verbal Reasoning Assessment - Management",
+    "url": "https://www.shl.com/assessments/professional-verbal-reasoning-assessment-management",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Management roles at professional level",
+    "duration": 39,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Verbal Reasoning Assessment - Technical",
+    "url": "https://www.shl.com/assessments/professional-verbal-reasoning-assessment-technical",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Technical roles at professional level",
+    "duration": 44,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Verbal Reasoning Assessment - Customer Service",
+    "url": "https://www.shl.com/assessments/professional-verbal-reasoning-assessment-customer service",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Customer Service roles at professional level",
+    "duration": 33,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Verbal Reasoning Assessment - Finance",
+    "url": "https://www.shl.com/assessments/professional-verbal-reasoning-assessment-finance",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Finance roles at professional level",
+    "duration": 36,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Verbal Reasoning Assessment - HR",
+    "url": "https://www.shl.com/assessments/professional-verbal-reasoning-assessment-hr",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for HR roles at professional level",
+    "duration": 48,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Verbal Reasoning Assessment - Marketing",
+    "url": "https://www.shl.com/assessments/professional-verbal-reasoning-assessment-marketing",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Marketing roles at professional level",
+    "duration": 47,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Verbal Reasoning Assessment - Sales",
+    "url": "https://www.shl.com/assessments/executive-verbal-reasoning-assessment-sales",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Sales roles at executive level",
+    "duration": 33,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Verbal Reasoning Assessment - Management",
+    "url": "https://www.shl.com/assessments/executive-verbal-reasoning-assessment-management",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Management roles at executive level",
+    "duration": 38,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Verbal Reasoning Assessment - Technical",
+    "url": "https://www.shl.com/assessments/executive-verbal-reasoning-assessment-technical",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Technical roles at executive level",
+    "duration": 37,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Verbal Reasoning Assessment - Customer Service",
+    "url": "https://www.shl.com/assessments/executive-verbal-reasoning-assessment-customer service",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Customer Service roles at executive level",
+    "duration": 35,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Verbal Reasoning Assessment - Finance",
+    "url": "https://www.shl.com/assessments/executive-verbal-reasoning-assessment-finance",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Finance roles at executive level",
+    "duration": 42,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Verbal Reasoning Assessment - HR",
+    "url": "https://www.shl.com/assessments/executive-verbal-reasoning-assessment-hr",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for HR roles at executive level",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Verbal Reasoning Assessment - Marketing",
+    "url": "https://www.shl.com/assessments/executive-verbal-reasoning-assessment-marketing",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Marketing roles at executive level",
+    "duration": 31,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Verbal Reasoning Assessment - Sales",
+    "url": "https://www.shl.com/assessments/graduate-verbal-reasoning-assessment-sales",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Sales roles at graduate level",
+    "duration": 39,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Verbal Reasoning Assessment - Management",
+    "url": "https://www.shl.com/assessments/graduate-verbal-reasoning-assessment-management",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Management roles at graduate level",
+    "duration": 47,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Verbal Reasoning Assessment - Technical",
+    "url": "https://www.shl.com/assessments/graduate-verbal-reasoning-assessment-technical",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Technical roles at graduate level",
+    "duration": 32,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Verbal Reasoning Assessment - Customer Service",
+    "url": "https://www.shl.com/assessments/graduate-verbal-reasoning-assessment-customer service",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Customer Service roles at graduate level",
+    "duration": 46,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Verbal Reasoning Assessment - Finance",
+    "url": "https://www.shl.com/assessments/graduate-verbal-reasoning-assessment-finance",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Finance roles at graduate level",
+    "duration": 38,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Verbal Reasoning Assessment - HR",
+    "url": "https://www.shl.com/assessments/graduate-verbal-reasoning-assessment-hr",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for HR roles at graduate level",
+    "duration": 39,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Verbal Reasoning Assessment - Marketing",
+    "url": "https://www.shl.com/assessments/graduate-verbal-reasoning-assessment-marketing",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Marketing roles at graduate level",
+    "duration": 48,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Verbal Reasoning Assessment - Sales",
+    "url": "https://www.shl.com/assessments/senior-verbal-reasoning-assessment-sales",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Sales roles at senior level",
+    "duration": 36,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Verbal Reasoning Assessment - Management",
+    "url": "https://www.shl.com/assessments/senior-verbal-reasoning-assessment-management",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Management roles at senior level",
+    "duration": 40,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Verbal Reasoning Assessment - Technical",
+    "url": "https://www.shl.com/assessments/senior-verbal-reasoning-assessment-technical",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Technical roles at senior level",
+    "duration": 45,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Verbal Reasoning Assessment - Customer Service",
+    "url": "https://www.shl.com/assessments/senior-verbal-reasoning-assessment-customer service",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Customer Service roles at senior level",
+    "duration": 33,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Verbal Reasoning Assessment - Finance",
+    "url": "https://www.shl.com/assessments/senior-verbal-reasoning-assessment-finance",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Finance roles at senior level",
+    "duration": 43,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Verbal Reasoning Assessment - HR",
+    "url": "https://www.shl.com/assessments/senior-verbal-reasoning-assessment-hr",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for HR roles at senior level",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Verbal Reasoning Assessment - Marketing",
+    "url": "https://www.shl.com/assessments/senior-verbal-reasoning-assessment-marketing",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Marketing roles at senior level",
+    "duration": 45,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Verbal Reasoning Assessment - Sales",
+    "url": "https://www.shl.com/assessments/junior-verbal-reasoning-assessment-sales",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Sales roles at junior level",
+    "duration": 45,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Verbal Reasoning Assessment - Management",
+    "url": "https://www.shl.com/assessments/junior-verbal-reasoning-assessment-management",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Management roles at junior level",
+    "duration": 33,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Verbal Reasoning Assessment - Technical",
+    "url": "https://www.shl.com/assessments/junior-verbal-reasoning-assessment-technical",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Technical roles at junior level",
+    "duration": 39,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Verbal Reasoning Assessment - Customer Service",
+    "url": "https://www.shl.com/assessments/junior-verbal-reasoning-assessment-customer service",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Customer Service roles at junior level",
+    "duration": 34,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Verbal Reasoning Assessment - Finance",
+    "url": "https://www.shl.com/assessments/junior-verbal-reasoning-assessment-finance",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Finance roles at junior level",
+    "duration": 31,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Verbal Reasoning Assessment - HR",
+    "url": "https://www.shl.com/assessments/junior-verbal-reasoning-assessment-hr",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for HR roles at junior level",
+    "duration": 36,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Verbal Reasoning Assessment - Marketing",
+    "url": "https://www.shl.com/assessments/junior-verbal-reasoning-assessment-marketing",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Marketing roles at junior level",
+    "duration": 37,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Verbal Reasoning Assessment - Sales",
+    "url": "https://www.shl.com/assessments/intermediate-verbal-reasoning-assessment-sales",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Sales roles at intermediate level",
+    "duration": 37,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Verbal Reasoning Assessment - Management",
+    "url": "https://www.shl.com/assessments/intermediate-verbal-reasoning-assessment-management",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Management roles at intermediate level",
+    "duration": 32,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Verbal Reasoning Assessment - Technical",
+    "url": "https://www.shl.com/assessments/intermediate-verbal-reasoning-assessment-technical",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Technical roles at intermediate level",
+    "duration": 40,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Verbal Reasoning Assessment - Customer Service",
+    "url": "https://www.shl.com/assessments/intermediate-verbal-reasoning-assessment-customer service",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Customer Service roles at intermediate level",
+    "duration": 40,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Verbal Reasoning Assessment - Finance",
+    "url": "https://www.shl.com/assessments/intermediate-verbal-reasoning-assessment-finance",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Finance roles at intermediate level",
+    "duration": 43,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Verbal Reasoning Assessment - HR",
+    "url": "https://www.shl.com/assessments/intermediate-verbal-reasoning-assessment-hr",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for HR roles at intermediate level",
+    "duration": 45,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Verbal Reasoning Assessment - Marketing",
+    "url": "https://www.shl.com/assessments/intermediate-verbal-reasoning-assessment-marketing",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Marketing roles at intermediate level",
+    "duration": 40,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Logical Reasoning Evaluation - Sales",
+    "url": "https://www.shl.com/assessments/advanced-logical-reasoning-evaluation-sales",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Sales roles at advanced level",
+    "duration": 36,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Logical Reasoning Evaluation - Management",
+    "url": "https://www.shl.com/assessments/advanced-logical-reasoning-evaluation-management",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Management roles at advanced level",
+    "duration": 35,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Logical Reasoning Evaluation - Technical",
+    "url": "https://www.shl.com/assessments/advanced-logical-reasoning-evaluation-technical",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Technical roles at advanced level",
+    "duration": 50,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Logical Reasoning Evaluation - Customer Service",
+    "url": "https://www.shl.com/assessments/advanced-logical-reasoning-evaluation-customer service",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Customer Service roles at advanced level",
+    "duration": 51,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Logical Reasoning Evaluation - Finance",
+    "url": "https://www.shl.com/assessments/advanced-logical-reasoning-evaluation-finance",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Finance roles at advanced level",
+    "duration": 40,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Logical Reasoning Evaluation - HR",
+    "url": "https://www.shl.com/assessments/advanced-logical-reasoning-evaluation-hr",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for HR roles at advanced level",
+    "duration": 45,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Logical Reasoning Evaluation - Marketing",
+    "url": "https://www.shl.com/assessments/advanced-logical-reasoning-evaluation-marketing",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Marketing roles at advanced level",
+    "duration": 38,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Logical Reasoning Evaluation - Sales",
+    "url": "https://www.shl.com/assessments/professional-logical-reasoning-evaluation-sales",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Sales roles at professional level",
+    "duration": 48,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Logical Reasoning Evaluation - Management",
+    "url": "https://www.shl.com/assessments/professional-logical-reasoning-evaluation-management",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Management roles at professional level",
+    "duration": 44,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Logical Reasoning Evaluation - Technical",
+    "url": "https://www.shl.com/assessments/professional-logical-reasoning-evaluation-technical",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Technical roles at professional level",
+    "duration": 49,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Logical Reasoning Evaluation - Customer Service",
+    "url": "https://www.shl.com/assessments/professional-logical-reasoning-evaluation-customer service",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Customer Service roles at professional level",
+    "duration": 38,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Logical Reasoning Evaluation - Finance",
+    "url": "https://www.shl.com/assessments/professional-logical-reasoning-evaluation-finance",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Finance roles at professional level",
+    "duration": 41,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Logical Reasoning Evaluation - HR",
+    "url": "https://www.shl.com/assessments/professional-logical-reasoning-evaluation-hr",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for HR roles at professional level",
+    "duration": 53,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Logical Reasoning Evaluation - Marketing",
+    "url": "https://www.shl.com/assessments/professional-logical-reasoning-evaluation-marketing",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Marketing roles at professional level",
+    "duration": 52,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Logical Reasoning Evaluation - Sales",
+    "url": "https://www.shl.com/assessments/executive-logical-reasoning-evaluation-sales",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Sales roles at executive level",
+    "duration": 38,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Logical Reasoning Evaluation - Management",
+    "url": "https://www.shl.com/assessments/executive-logical-reasoning-evaluation-management",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Management roles at executive level",
+    "duration": 43,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Logical Reasoning Evaluation - Technical",
+    "url": "https://www.shl.com/assessments/executive-logical-reasoning-evaluation-technical",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Technical roles at executive level",
+    "duration": 42,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Logical Reasoning Evaluation - Customer Service",
+    "url": "https://www.shl.com/assessments/executive-logical-reasoning-evaluation-customer service",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Customer Service roles at executive level",
+    "duration": 40,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Logical Reasoning Evaluation - Finance",
+    "url": "https://www.shl.com/assessments/executive-logical-reasoning-evaluation-finance",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Finance roles at executive level",
+    "duration": 47,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Logical Reasoning Evaluation - HR",
+    "url": "https://www.shl.com/assessments/executive-logical-reasoning-evaluation-hr",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for HR roles at executive level",
+    "duration": 35,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Logical Reasoning Evaluation - Marketing",
+    "url": "https://www.shl.com/assessments/executive-logical-reasoning-evaluation-marketing",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Marketing roles at executive level",
+    "duration": 36,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Logical Reasoning Evaluation - Sales",
+    "url": "https://www.shl.com/assessments/graduate-logical-reasoning-evaluation-sales",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Sales roles at graduate level",
+    "duration": 44,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Logical Reasoning Evaluation - Management",
+    "url": "https://www.shl.com/assessments/graduate-logical-reasoning-evaluation-management",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Management roles at graduate level",
+    "duration": 52,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Logical Reasoning Evaluation - Technical",
+    "url": "https://www.shl.com/assessments/graduate-logical-reasoning-evaluation-technical",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Technical roles at graduate level",
+    "duration": 37,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Logical Reasoning Evaluation - Customer Service",
+    "url": "https://www.shl.com/assessments/graduate-logical-reasoning-evaluation-customer service",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Customer Service roles at graduate level",
+    "duration": 51,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Logical Reasoning Evaluation - Finance",
+    "url": "https://www.shl.com/assessments/graduate-logical-reasoning-evaluation-finance",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Finance roles at graduate level",
+    "duration": 43,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Logical Reasoning Evaluation - HR",
+    "url": "https://www.shl.com/assessments/graduate-logical-reasoning-evaluation-hr",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for HR roles at graduate level",
+    "duration": 44,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Logical Reasoning Evaluation - Marketing",
+    "url": "https://www.shl.com/assessments/graduate-logical-reasoning-evaluation-marketing",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Marketing roles at graduate level",
+    "duration": 53,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Logical Reasoning Evaluation - Sales",
+    "url": "https://www.shl.com/assessments/senior-logical-reasoning-evaluation-sales",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Sales roles at senior level",
+    "duration": 41,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Logical Reasoning Evaluation - Management",
+    "url": "https://www.shl.com/assessments/senior-logical-reasoning-evaluation-management",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Management roles at senior level",
+    "duration": 45,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Logical Reasoning Evaluation - Technical",
+    "url": "https://www.shl.com/assessments/senior-logical-reasoning-evaluation-technical",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Technical roles at senior level",
+    "duration": 50,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Logical Reasoning Evaluation - Customer Service",
+    "url": "https://www.shl.com/assessments/senior-logical-reasoning-evaluation-customer service",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Customer Service roles at senior level",
+    "duration": 38,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Logical Reasoning Evaluation - Finance",
+    "url": "https://www.shl.com/assessments/senior-logical-reasoning-evaluation-finance",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Finance roles at senior level",
+    "duration": 48,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Logical Reasoning Evaluation - HR",
+    "url": "https://www.shl.com/assessments/senior-logical-reasoning-evaluation-hr",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for HR roles at senior level",
+    "duration": 35,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Logical Reasoning Evaluation - Marketing",
+    "url": "https://www.shl.com/assessments/senior-logical-reasoning-evaluation-marketing",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Marketing roles at senior level",
+    "duration": 50,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Logical Reasoning Evaluation - Sales",
+    "url": "https://www.shl.com/assessments/junior-logical-reasoning-evaluation-sales",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Sales roles at junior level",
+    "duration": 50,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Logical Reasoning Evaluation - Management",
+    "url": "https://www.shl.com/assessments/junior-logical-reasoning-evaluation-management",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Management roles at junior level",
+    "duration": 38,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Logical Reasoning Evaluation - Technical",
+    "url": "https://www.shl.com/assessments/junior-logical-reasoning-evaluation-technical",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Technical roles at junior level",
+    "duration": 44,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Logical Reasoning Evaluation - Customer Service",
+    "url": "https://www.shl.com/assessments/junior-logical-reasoning-evaluation-customer service",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Customer Service roles at junior level",
+    "duration": 39,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Logical Reasoning Evaluation - Finance",
+    "url": "https://www.shl.com/assessments/junior-logical-reasoning-evaluation-finance",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Finance roles at junior level",
+    "duration": 36,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Logical Reasoning Evaluation - HR",
+    "url": "https://www.shl.com/assessments/junior-logical-reasoning-evaluation-hr",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for HR roles at junior level",
+    "duration": 41,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Logical Reasoning Evaluation - Marketing",
+    "url": "https://www.shl.com/assessments/junior-logical-reasoning-evaluation-marketing",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Marketing roles at junior level",
+    "duration": 42,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Logical Reasoning Evaluation - Sales",
+    "url": "https://www.shl.com/assessments/intermediate-logical-reasoning-evaluation-sales",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Sales roles at intermediate level",
+    "duration": 42,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Logical Reasoning Evaluation - Management",
+    "url": "https://www.shl.com/assessments/intermediate-logical-reasoning-evaluation-management",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Management roles at intermediate level",
+    "duration": 37,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Logical Reasoning Evaluation - Technical",
+    "url": "https://www.shl.com/assessments/intermediate-logical-reasoning-evaluation-technical",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Technical roles at intermediate level",
+    "duration": 45,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Logical Reasoning Evaluation - Customer Service",
+    "url": "https://www.shl.com/assessments/intermediate-logical-reasoning-evaluation-customer service",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Customer Service roles at intermediate level",
+    "duration": 45,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Logical Reasoning Evaluation - Finance",
+    "url": "https://www.shl.com/assessments/intermediate-logical-reasoning-evaluation-finance",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Finance roles at intermediate level",
+    "duration": 48,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Logical Reasoning Evaluation - HR",
+    "url": "https://www.shl.com/assessments/intermediate-logical-reasoning-evaluation-hr",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for HR roles at intermediate level",
+    "duration": 50,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Logical Reasoning Evaluation - Marketing",
+    "url": "https://www.shl.com/assessments/intermediate-logical-reasoning-evaluation-marketing",
+    "description": "Assesses logical thinking and pattern recognition skills tailored for Marketing roles at intermediate level",
+    "duration": 45,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Personality Questionnaire - Sales",
+    "url": "https://www.shl.com/assessments/advanced-personality-questionnaire-sales",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Sales roles at advanced level",
+    "duration": 21,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Personality Questionnaire - Management",
+    "url": "https://www.shl.com/assessments/advanced-personality-questionnaire-management",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Management roles at advanced level",
+    "duration": 20,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Personality Questionnaire - Technical",
+    "url": "https://www.shl.com/assessments/advanced-personality-questionnaire-technical",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Technical roles at advanced level",
+    "duration": 35,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Personality Questionnaire - Customer Service",
+    "url": "https://www.shl.com/assessments/advanced-personality-questionnaire-customer service",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Customer Service roles at advanced level",
+    "duration": 36,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Personality Questionnaire - Finance",
+    "url": "https://www.shl.com/assessments/advanced-personality-questionnaire-finance",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Finance roles at advanced level",
+    "duration": 25,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Personality Questionnaire - HR",
+    "url": "https://www.shl.com/assessments/advanced-personality-questionnaire-hr",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for HR roles at advanced level",
+    "duration": 30,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Personality Questionnaire - Marketing",
+    "url": "https://www.shl.com/assessments/advanced-personality-questionnaire-marketing",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Marketing roles at advanced level",
+    "duration": 23,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Personality Questionnaire - Sales",
+    "url": "https://www.shl.com/assessments/professional-personality-questionnaire-sales",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Sales roles at professional level",
+    "duration": 33,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Personality Questionnaire - Management",
+    "url": "https://www.shl.com/assessments/professional-personality-questionnaire-management",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Management roles at professional level",
+    "duration": 29,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Personality Questionnaire - Technical",
+    "url": "https://www.shl.com/assessments/professional-personality-questionnaire-technical",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Technical roles at professional level",
+    "duration": 34,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Personality Questionnaire - Customer Service",
+    "url": "https://www.shl.com/assessments/professional-personality-questionnaire-customer service",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Customer Service roles at professional level",
+    "duration": 23,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Personality Questionnaire - Finance",
+    "url": "https://www.shl.com/assessments/professional-personality-questionnaire-finance",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Finance roles at professional level",
+    "duration": 26,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Personality Questionnaire - HR",
+    "url": "https://www.shl.com/assessments/professional-personality-questionnaire-hr",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for HR roles at professional level",
+    "duration": 38,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Personality Questionnaire - Marketing",
+    "url": "https://www.shl.com/assessments/professional-personality-questionnaire-marketing",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Marketing roles at professional level",
+    "duration": 37,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Personality Questionnaire - Sales",
+    "url": "https://www.shl.com/assessments/executive-personality-questionnaire-sales",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Sales roles at executive level",
+    "duration": 23,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Personality Questionnaire - Management",
+    "url": "https://www.shl.com/assessments/executive-personality-questionnaire-management",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Management roles at executive level",
+    "duration": 28,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Personality Questionnaire - Technical",
+    "url": "https://www.shl.com/assessments/executive-personality-questionnaire-technical",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Technical roles at executive level",
+    "duration": 27,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Personality Questionnaire - Customer Service",
+    "url": "https://www.shl.com/assessments/executive-personality-questionnaire-customer service",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Customer Service roles at executive level",
+    "duration": 25,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Personality Questionnaire - Finance",
+    "url": "https://www.shl.com/assessments/executive-personality-questionnaire-finance",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Finance roles at executive level",
+    "duration": 32,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Personality Questionnaire - HR",
+    "url": "https://www.shl.com/assessments/executive-personality-questionnaire-hr",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for HR roles at executive level",
+    "duration": 20,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Personality Questionnaire - Marketing",
+    "url": "https://www.shl.com/assessments/executive-personality-questionnaire-marketing",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Marketing roles at executive level",
+    "duration": 21,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Personality Questionnaire - Sales",
+    "url": "https://www.shl.com/assessments/graduate-personality-questionnaire-sales",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Sales roles at graduate level",
+    "duration": 29,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Personality Questionnaire - Management",
+    "url": "https://www.shl.com/assessments/graduate-personality-questionnaire-management",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Management roles at graduate level",
+    "duration": 37,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Personality Questionnaire - Technical",
+    "url": "https://www.shl.com/assessments/graduate-personality-questionnaire-technical",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Technical roles at graduate level",
+    "duration": 22,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Personality Questionnaire - Customer Service",
+    "url": "https://www.shl.com/assessments/graduate-personality-questionnaire-customer service",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Customer Service roles at graduate level",
+    "duration": 36,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Personality Questionnaire - Finance",
+    "url": "https://www.shl.com/assessments/graduate-personality-questionnaire-finance",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Finance roles at graduate level",
+    "duration": 28,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Personality Questionnaire - HR",
+    "url": "https://www.shl.com/assessments/graduate-personality-questionnaire-hr",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for HR roles at graduate level",
+    "duration": 29,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Personality Questionnaire - Marketing",
+    "url": "https://www.shl.com/assessments/graduate-personality-questionnaire-marketing",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Marketing roles at graduate level",
+    "duration": 38,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Personality Questionnaire - Sales",
+    "url": "https://www.shl.com/assessments/senior-personality-questionnaire-sales",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Sales roles at senior level",
+    "duration": 26,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Personality Questionnaire - Management",
+    "url": "https://www.shl.com/assessments/senior-personality-questionnaire-management",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Management roles at senior level",
+    "duration": 30,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Personality Questionnaire - Technical",
+    "url": "https://www.shl.com/assessments/senior-personality-questionnaire-technical",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Technical roles at senior level",
+    "duration": 35,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Personality Questionnaire - Customer Service",
+    "url": "https://www.shl.com/assessments/senior-personality-questionnaire-customer service",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Customer Service roles at senior level",
+    "duration": 23,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Personality Questionnaire - Finance",
+    "url": "https://www.shl.com/assessments/senior-personality-questionnaire-finance",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Finance roles at senior level",
+    "duration": 33,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Personality Questionnaire - HR",
+    "url": "https://www.shl.com/assessments/senior-personality-questionnaire-hr",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for HR roles at senior level",
+    "duration": 20,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Personality Questionnaire - Marketing",
+    "url": "https://www.shl.com/assessments/senior-personality-questionnaire-marketing",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Marketing roles at senior level",
+    "duration": 35,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Personality Questionnaire - Sales",
+    "url": "https://www.shl.com/assessments/junior-personality-questionnaire-sales",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Sales roles at junior level",
+    "duration": 35,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Personality Questionnaire - Management",
+    "url": "https://www.shl.com/assessments/junior-personality-questionnaire-management",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Management roles at junior level",
+    "duration": 23,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Personality Questionnaire - Technical",
+    "url": "https://www.shl.com/assessments/junior-personality-questionnaire-technical",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Technical roles at junior level",
+    "duration": 29,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Personality Questionnaire - Customer Service",
+    "url": "https://www.shl.com/assessments/junior-personality-questionnaire-customer service",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Customer Service roles at junior level",
+    "duration": 24,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Personality Questionnaire - Finance",
+    "url": "https://www.shl.com/assessments/junior-personality-questionnaire-finance",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Finance roles at junior level",
+    "duration": 21,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Personality Questionnaire - HR",
+    "url": "https://www.shl.com/assessments/junior-personality-questionnaire-hr",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for HR roles at junior level",
+    "duration": 26,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Personality Questionnaire - Marketing",
+    "url": "https://www.shl.com/assessments/junior-personality-questionnaire-marketing",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Marketing roles at junior level",
+    "duration": 27,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Personality Questionnaire - Sales",
+    "url": "https://www.shl.com/assessments/intermediate-personality-questionnaire-sales",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Sales roles at intermediate level",
+    "duration": 27,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Personality Questionnaire - Management",
+    "url": "https://www.shl.com/assessments/intermediate-personality-questionnaire-management",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Management roles at intermediate level",
+    "duration": 22,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Personality Questionnaire - Technical",
+    "url": "https://www.shl.com/assessments/intermediate-personality-questionnaire-technical",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Technical roles at intermediate level",
+    "duration": 30,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Personality Questionnaire - Customer Service",
+    "url": "https://www.shl.com/assessments/intermediate-personality-questionnaire-customer service",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Customer Service roles at intermediate level",
+    "duration": 30,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Personality Questionnaire - Finance",
+    "url": "https://www.shl.com/assessments/intermediate-personality-questionnaire-finance",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Finance roles at intermediate level",
+    "duration": 33,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Personality Questionnaire - HR",
+    "url": "https://www.shl.com/assessments/intermediate-personality-questionnaire-hr",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for HR roles at intermediate level",
+    "duration": 35,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Personality Questionnaire - Marketing",
+    "url": "https://www.shl.com/assessments/intermediate-personality-questionnaire-marketing",
+    "description": "Comprehensive personality assessment for workplace behavior tailored for Marketing roles at intermediate level",
+    "duration": 30,
+    "test_type": [
+      "Personality"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Situational Judgment Test - Sales",
+    "url": "https://www.shl.com/assessments/advanced-situational-judgment-test-sales",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Sales roles at advanced level",
+    "duration": 41,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Situational Judgment Test - Management",
+    "url": "https://www.shl.com/assessments/advanced-situational-judgment-test-management",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Management roles at advanced level",
+    "duration": 40,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Situational Judgment Test - Technical",
+    "url": "https://www.shl.com/assessments/advanced-situational-judgment-test-technical",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Technical roles at advanced level",
+    "duration": 55,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Situational Judgment Test - Customer Service",
+    "url": "https://www.shl.com/assessments/advanced-situational-judgment-test-customer service",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Customer Service roles at advanced level",
+    "duration": 56,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Situational Judgment Test - Finance",
+    "url": "https://www.shl.com/assessments/advanced-situational-judgment-test-finance",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Finance roles at advanced level",
+    "duration": 45,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Situational Judgment Test - HR",
+    "url": "https://www.shl.com/assessments/advanced-situational-judgment-test-hr",
+    "description": "Evaluates decision-making in workplace scenarios tailored for HR roles at advanced level",
+    "duration": 50,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Situational Judgment Test - Marketing",
+    "url": "https://www.shl.com/assessments/advanced-situational-judgment-test-marketing",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Marketing roles at advanced level",
+    "duration": 43,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Situational Judgment Test - Sales",
+    "url": "https://www.shl.com/assessments/professional-situational-judgment-test-sales",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Sales roles at professional level",
+    "duration": 53,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Situational Judgment Test - Management",
+    "url": "https://www.shl.com/assessments/professional-situational-judgment-test-management",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Management roles at professional level",
+    "duration": 49,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Situational Judgment Test - Technical",
+    "url": "https://www.shl.com/assessments/professional-situational-judgment-test-technical",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Technical roles at professional level",
+    "duration": 54,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Situational Judgment Test - Customer Service",
+    "url": "https://www.shl.com/assessments/professional-situational-judgment-test-customer service",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Customer Service roles at professional level",
+    "duration": 43,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Situational Judgment Test - Finance",
+    "url": "https://www.shl.com/assessments/professional-situational-judgment-test-finance",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Finance roles at professional level",
+    "duration": 46,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Situational Judgment Test - HR",
+    "url": "https://www.shl.com/assessments/professional-situational-judgment-test-hr",
+    "description": "Evaluates decision-making in workplace scenarios tailored for HR roles at professional level",
+    "duration": 58,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Situational Judgment Test - Marketing",
+    "url": "https://www.shl.com/assessments/professional-situational-judgment-test-marketing",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Marketing roles at professional level",
+    "duration": 57,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Situational Judgment Test - Sales",
+    "url": "https://www.shl.com/assessments/executive-situational-judgment-test-sales",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Sales roles at executive level",
+    "duration": 43,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Situational Judgment Test - Management",
+    "url": "https://www.shl.com/assessments/executive-situational-judgment-test-management",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Management roles at executive level",
+    "duration": 48,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Situational Judgment Test - Technical",
+    "url": "https://www.shl.com/assessments/executive-situational-judgment-test-technical",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Technical roles at executive level",
+    "duration": 47,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Situational Judgment Test - Customer Service",
+    "url": "https://www.shl.com/assessments/executive-situational-judgment-test-customer service",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Customer Service roles at executive level",
+    "duration": 45,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Situational Judgment Test - Finance",
+    "url": "https://www.shl.com/assessments/executive-situational-judgment-test-finance",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Finance roles at executive level",
+    "duration": 52,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Situational Judgment Test - HR",
+    "url": "https://www.shl.com/assessments/executive-situational-judgment-test-hr",
+    "description": "Evaluates decision-making in workplace scenarios tailored for HR roles at executive level",
+    "duration": 40,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Situational Judgment Test - Marketing",
+    "url": "https://www.shl.com/assessments/executive-situational-judgment-test-marketing",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Marketing roles at executive level",
+    "duration": 41,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Situational Judgment Test - Sales",
+    "url": "https://www.shl.com/assessments/graduate-situational-judgment-test-sales",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Sales roles at graduate level",
+    "duration": 49,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Situational Judgment Test - Management",
+    "url": "https://www.shl.com/assessments/graduate-situational-judgment-test-management",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Management roles at graduate level",
+    "duration": 57,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Situational Judgment Test - Technical",
+    "url": "https://www.shl.com/assessments/graduate-situational-judgment-test-technical",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Technical roles at graduate level",
+    "duration": 42,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Situational Judgment Test - Customer Service",
+    "url": "https://www.shl.com/assessments/graduate-situational-judgment-test-customer service",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Customer Service roles at graduate level",
+    "duration": 56,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Situational Judgment Test - Finance",
+    "url": "https://www.shl.com/assessments/graduate-situational-judgment-test-finance",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Finance roles at graduate level",
+    "duration": 48,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Situational Judgment Test - HR",
+    "url": "https://www.shl.com/assessments/graduate-situational-judgment-test-hr",
+    "description": "Evaluates decision-making in workplace scenarios tailored for HR roles at graduate level",
+    "duration": 49,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Situational Judgment Test - Marketing",
+    "url": "https://www.shl.com/assessments/graduate-situational-judgment-test-marketing",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Marketing roles at graduate level",
+    "duration": 58,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Situational Judgment Test - Sales",
+    "url": "https://www.shl.com/assessments/senior-situational-judgment-test-sales",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Sales roles at senior level",
+    "duration": 46,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Situational Judgment Test - Management",
+    "url": "https://www.shl.com/assessments/senior-situational-judgment-test-management",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Management roles at senior level",
+    "duration": 50,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Situational Judgment Test - Technical",
+    "url": "https://www.shl.com/assessments/senior-situational-judgment-test-technical",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Technical roles at senior level",
+    "duration": 55,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Situational Judgment Test - Customer Service",
+    "url": "https://www.shl.com/assessments/senior-situational-judgment-test-customer service",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Customer Service roles at senior level",
+    "duration": 43,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Situational Judgment Test - Finance",
+    "url": "https://www.shl.com/assessments/senior-situational-judgment-test-finance",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Finance roles at senior level",
+    "duration": 53,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Situational Judgment Test - HR",
+    "url": "https://www.shl.com/assessments/senior-situational-judgment-test-hr",
+    "description": "Evaluates decision-making in workplace scenarios tailored for HR roles at senior level",
+    "duration": 40,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Situational Judgment Test - Marketing",
+    "url": "https://www.shl.com/assessments/senior-situational-judgment-test-marketing",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Marketing roles at senior level",
+    "duration": 55,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Situational Judgment Test - Sales",
+    "url": "https://www.shl.com/assessments/junior-situational-judgment-test-sales",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Sales roles at junior level",
+    "duration": 55,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Situational Judgment Test - Management",
+    "url": "https://www.shl.com/assessments/junior-situational-judgment-test-management",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Management roles at junior level",
+    "duration": 43,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Situational Judgment Test - Technical",
+    "url": "https://www.shl.com/assessments/junior-situational-judgment-test-technical",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Technical roles at junior level",
+    "duration": 49,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Situational Judgment Test - Customer Service",
+    "url": "https://www.shl.com/assessments/junior-situational-judgment-test-customer service",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Customer Service roles at junior level",
+    "duration": 44,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Situational Judgment Test - Finance",
+    "url": "https://www.shl.com/assessments/junior-situational-judgment-test-finance",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Finance roles at junior level",
+    "duration": 41,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Situational Judgment Test - HR",
+    "url": "https://www.shl.com/assessments/junior-situational-judgment-test-hr",
+    "description": "Evaluates decision-making in workplace scenarios tailored for HR roles at junior level",
+    "duration": 46,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Situational Judgment Test - Marketing",
+    "url": "https://www.shl.com/assessments/junior-situational-judgment-test-marketing",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Marketing roles at junior level",
+    "duration": 47,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Situational Judgment Test - Sales",
+    "url": "https://www.shl.com/assessments/intermediate-situational-judgment-test-sales",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Sales roles at intermediate level",
+    "duration": 47,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Situational Judgment Test - Management",
+    "url": "https://www.shl.com/assessments/intermediate-situational-judgment-test-management",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Management roles at intermediate level",
+    "duration": 42,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Situational Judgment Test - Technical",
+    "url": "https://www.shl.com/assessments/intermediate-situational-judgment-test-technical",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Technical roles at intermediate level",
+    "duration": 50,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Situational Judgment Test - Customer Service",
+    "url": "https://www.shl.com/assessments/intermediate-situational-judgment-test-customer service",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Customer Service roles at intermediate level",
+    "duration": 50,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Situational Judgment Test - Finance",
+    "url": "https://www.shl.com/assessments/intermediate-situational-judgment-test-finance",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Finance roles at intermediate level",
+    "duration": 53,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Situational Judgment Test - HR",
+    "url": "https://www.shl.com/assessments/intermediate-situational-judgment-test-hr",
+    "description": "Evaluates decision-making in workplace scenarios tailored for HR roles at intermediate level",
+    "duration": 55,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Situational Judgment Test - Marketing",
+    "url": "https://www.shl.com/assessments/intermediate-situational-judgment-test-marketing",
+    "description": "Evaluates decision-making in workplace scenarios tailored for Marketing roles at intermediate level",
+    "duration": 50,
+    "test_type": [
+      "Situational",
+      "Behavioral"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Numerical Reasoning Test - Sales",
+    "url": "https://www.shl.com/assessments/advanced-numerical-reasoning-test-sales",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Sales roles at advanced level",
+    "duration": 26,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Numerical Reasoning Test - Management",
+    "url": "https://www.shl.com/assessments/advanced-numerical-reasoning-test-management",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Management roles at advanced level",
+    "duration": 25,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Numerical Reasoning Test - Technical",
+    "url": "https://www.shl.com/assessments/advanced-numerical-reasoning-test-technical",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Technical roles at advanced level",
+    "duration": 40,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Numerical Reasoning Test - Customer Service",
+    "url": "https://www.shl.com/assessments/advanced-numerical-reasoning-test-customer service",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Customer Service roles at advanced level",
+    "duration": 41,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Numerical Reasoning Test - Finance",
+    "url": "https://www.shl.com/assessments/advanced-numerical-reasoning-test-finance",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Finance roles at advanced level",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Numerical Reasoning Test - HR",
+    "url": "https://www.shl.com/assessments/advanced-numerical-reasoning-test-hr",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for HR roles at advanced level",
+    "duration": 35,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Numerical Reasoning Test - Marketing",
+    "url": "https://www.shl.com/assessments/advanced-numerical-reasoning-test-marketing",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Marketing roles at advanced level",
+    "duration": 28,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Numerical Reasoning Test - Sales",
+    "url": "https://www.shl.com/assessments/professional-numerical-reasoning-test-sales",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Sales roles at professional level",
+    "duration": 38,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Numerical Reasoning Test - Management",
+    "url": "https://www.shl.com/assessments/professional-numerical-reasoning-test-management",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Management roles at professional level",
+    "duration": 34,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Numerical Reasoning Test - Technical",
+    "url": "https://www.shl.com/assessments/professional-numerical-reasoning-test-technical",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Technical roles at professional level",
+    "duration": 39,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Numerical Reasoning Test - Customer Service",
+    "url": "https://www.shl.com/assessments/professional-numerical-reasoning-test-customer service",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Customer Service roles at professional level",
+    "duration": 28,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Numerical Reasoning Test - Finance",
+    "url": "https://www.shl.com/assessments/professional-numerical-reasoning-test-finance",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Finance roles at professional level",
+    "duration": 31,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Numerical Reasoning Test - HR",
+    "url": "https://www.shl.com/assessments/professional-numerical-reasoning-test-hr",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for HR roles at professional level",
+    "duration": 43,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Numerical Reasoning Test - Marketing",
+    "url": "https://www.shl.com/assessments/professional-numerical-reasoning-test-marketing",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Marketing roles at professional level",
+    "duration": 42,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Numerical Reasoning Test - Sales",
+    "url": "https://www.shl.com/assessments/executive-numerical-reasoning-test-sales",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Sales roles at executive level",
+    "duration": 28,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Numerical Reasoning Test - Management",
+    "url": "https://www.shl.com/assessments/executive-numerical-reasoning-test-management",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Management roles at executive level",
+    "duration": 33,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Numerical Reasoning Test - Technical",
+    "url": "https://www.shl.com/assessments/executive-numerical-reasoning-test-technical",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Technical roles at executive level",
+    "duration": 32,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Numerical Reasoning Test - Customer Service",
+    "url": "https://www.shl.com/assessments/executive-numerical-reasoning-test-customer service",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Customer Service roles at executive level",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Numerical Reasoning Test - Finance",
+    "url": "https://www.shl.com/assessments/executive-numerical-reasoning-test-finance",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Finance roles at executive level",
+    "duration": 37,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Numerical Reasoning Test - HR",
+    "url": "https://www.shl.com/assessments/executive-numerical-reasoning-test-hr",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for HR roles at executive level",
+    "duration": 25,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Numerical Reasoning Test - Marketing",
+    "url": "https://www.shl.com/assessments/executive-numerical-reasoning-test-marketing",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Marketing roles at executive level",
+    "duration": 26,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Numerical Reasoning Test - Sales",
+    "url": "https://www.shl.com/assessments/graduate-numerical-reasoning-test-sales",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Sales roles at graduate level",
+    "duration": 34,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Numerical Reasoning Test - Management",
+    "url": "https://www.shl.com/assessments/graduate-numerical-reasoning-test-management",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Management roles at graduate level",
+    "duration": 42,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Numerical Reasoning Test - Technical",
+    "url": "https://www.shl.com/assessments/graduate-numerical-reasoning-test-technical",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Technical roles at graduate level",
+    "duration": 27,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Numerical Reasoning Test - Customer Service",
+    "url": "https://www.shl.com/assessments/graduate-numerical-reasoning-test-customer service",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Customer Service roles at graduate level",
+    "duration": 41,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Numerical Reasoning Test - Finance",
+    "url": "https://www.shl.com/assessments/graduate-numerical-reasoning-test-finance",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Finance roles at graduate level",
+    "duration": 33,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Numerical Reasoning Test - HR",
+    "url": "https://www.shl.com/assessments/graduate-numerical-reasoning-test-hr",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for HR roles at graduate level",
+    "duration": 34,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Graduate Numerical Reasoning Test - Marketing",
+    "url": "https://www.shl.com/assessments/graduate-numerical-reasoning-test-marketing",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Marketing roles at graduate level",
+    "duration": 43,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Numerical Reasoning Test - Sales",
+    "url": "https://www.shl.com/assessments/senior-numerical-reasoning-test-sales",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Sales roles at senior level",
+    "duration": 31,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Numerical Reasoning Test - Management",
+    "url": "https://www.shl.com/assessments/senior-numerical-reasoning-test-management",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Management roles at senior level",
+    "duration": 35,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Numerical Reasoning Test - Technical",
+    "url": "https://www.shl.com/assessments/senior-numerical-reasoning-test-technical",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Technical roles at senior level",
+    "duration": 40,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Numerical Reasoning Test - Customer Service",
+    "url": "https://www.shl.com/assessments/senior-numerical-reasoning-test-customer service",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Customer Service roles at senior level",
+    "duration": 28,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Numerical Reasoning Test - Finance",
+    "url": "https://www.shl.com/assessments/senior-numerical-reasoning-test-finance",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Finance roles at senior level",
+    "duration": 38,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Numerical Reasoning Test - HR",
+    "url": "https://www.shl.com/assessments/senior-numerical-reasoning-test-hr",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for HR roles at senior level",
+    "duration": 25,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Senior Numerical Reasoning Test - Marketing",
+    "url": "https://www.shl.com/assessments/senior-numerical-reasoning-test-marketing",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Marketing roles at senior level",
+    "duration": 40,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Numerical Reasoning Test - Sales",
+    "url": "https://www.shl.com/assessments/junior-numerical-reasoning-test-sales",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Sales roles at junior level",
+    "duration": 40,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Numerical Reasoning Test - Management",
+    "url": "https://www.shl.com/assessments/junior-numerical-reasoning-test-management",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Management roles at junior level",
+    "duration": 28,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Numerical Reasoning Test - Technical",
+    "url": "https://www.shl.com/assessments/junior-numerical-reasoning-test-technical",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Technical roles at junior level",
+    "duration": 34,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Numerical Reasoning Test - Customer Service",
+    "url": "https://www.shl.com/assessments/junior-numerical-reasoning-test-customer service",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Customer Service roles at junior level",
+    "duration": 29,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Numerical Reasoning Test - Finance",
+    "url": "https://www.shl.com/assessments/junior-numerical-reasoning-test-finance",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Finance roles at junior level",
+    "duration": 26,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Numerical Reasoning Test - HR",
+    "url": "https://www.shl.com/assessments/junior-numerical-reasoning-test-hr",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for HR roles at junior level",
+    "duration": 31,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Junior Numerical Reasoning Test - Marketing",
+    "url": "https://www.shl.com/assessments/junior-numerical-reasoning-test-marketing",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Marketing roles at junior level",
+    "duration": 32,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Numerical Reasoning Test - Sales",
+    "url": "https://www.shl.com/assessments/intermediate-numerical-reasoning-test-sales",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Sales roles at intermediate level",
+    "duration": 32,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Numerical Reasoning Test - Management",
+    "url": "https://www.shl.com/assessments/intermediate-numerical-reasoning-test-management",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Management roles at intermediate level",
+    "duration": 27,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Numerical Reasoning Test - Technical",
+    "url": "https://www.shl.com/assessments/intermediate-numerical-reasoning-test-technical",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Technical roles at intermediate level",
+    "duration": 35,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Numerical Reasoning Test - Customer Service",
+    "url": "https://www.shl.com/assessments/intermediate-numerical-reasoning-test-customer service",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Customer Service roles at intermediate level",
+    "duration": 35,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Numerical Reasoning Test - Finance",
+    "url": "https://www.shl.com/assessments/intermediate-numerical-reasoning-test-finance",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Finance roles at intermediate level",
+    "duration": 38,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Numerical Reasoning Test - HR",
+    "url": "https://www.shl.com/assessments/intermediate-numerical-reasoning-test-hr",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for HR roles at intermediate level",
+    "duration": 40,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Intermediate Numerical Reasoning Test - Marketing",
+    "url": "https://www.shl.com/assessments/intermediate-numerical-reasoning-test-marketing",
+    "description": "Evaluates numerical problem-solving and data interpretation skills tailored for Marketing roles at intermediate level",
+    "duration": 35,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Verbal Reasoning Assessment - Sales",
+    "url": "https://www.shl.com/assessments/advanced-verbal-reasoning-assessment-sales",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Sales roles at advanced level",
+    "duration": 31,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Verbal Reasoning Assessment - Management",
+    "url": "https://www.shl.com/assessments/advanced-verbal-reasoning-assessment-management",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Management roles at advanced level",
+    "duration": 30,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Verbal Reasoning Assessment - Technical",
+    "url": "https://www.shl.com/assessments/advanced-verbal-reasoning-assessment-technical",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Technical roles at advanced level",
+    "duration": 45,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Verbal Reasoning Assessment - Customer Service",
+    "url": "https://www.shl.com/assessments/advanced-verbal-reasoning-assessment-customer service",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Customer Service roles at advanced level",
+    "duration": 46,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Verbal Reasoning Assessment - Finance",
+    "url": "https://www.shl.com/assessments/advanced-verbal-reasoning-assessment-finance",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Finance roles at advanced level",
+    "duration": 35,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Verbal Reasoning Assessment - HR",
+    "url": "https://www.shl.com/assessments/advanced-verbal-reasoning-assessment-hr",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for HR roles at advanced level",
+    "duration": 40,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Advanced Verbal Reasoning Assessment - Marketing",
+    "url": "https://www.shl.com/assessments/advanced-verbal-reasoning-assessment-marketing",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Marketing roles at advanced level",
+    "duration": 33,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Verbal Reasoning Assessment - Sales",
+    "url": "https://www.shl.com/assessments/professional-verbal-reasoning-assessment-sales",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Sales roles at professional level",
+    "duration": 43,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Verbal Reasoning Assessment - Management",
+    "url": "https://www.shl.com/assessments/professional-verbal-reasoning-assessment-management",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Management roles at professional level",
+    "duration": 39,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Verbal Reasoning Assessment - Technical",
+    "url": "https://www.shl.com/assessments/professional-verbal-reasoning-assessment-technical",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Technical roles at professional level",
+    "duration": 44,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Verbal Reasoning Assessment - Customer Service",
+    "url": "https://www.shl.com/assessments/professional-verbal-reasoning-assessment-customer service",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Customer Service roles at professional level",
+    "duration": 33,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Verbal Reasoning Assessment - Finance",
+    "url": "https://www.shl.com/assessments/professional-verbal-reasoning-assessment-finance",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Finance roles at professional level",
+    "duration": 36,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Verbal Reasoning Assessment - HR",
+    "url": "https://www.shl.com/assessments/professional-verbal-reasoning-assessment-hr",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for HR roles at professional level",
+    "duration": 48,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Professional Verbal Reasoning Assessment - Marketing",
+    "url": "https://www.shl.com/assessments/professional-verbal-reasoning-assessment-marketing",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Marketing roles at professional level",
+    "duration": 47,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "No",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Verbal Reasoning Assessment - Sales",
+    "url": "https://www.shl.com/assessments/executive-verbal-reasoning-assessment-sales",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Sales roles at executive level",
+    "duration": 33,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  },
+  {
+    "name": "Executive Verbal Reasoning Assessment - Management",
+    "url": "https://www.shl.com/assessments/executive-verbal-reasoning-assessment-management",
+    "description": "Measures verbal comprehension and critical thinking abilities tailored for Management roles at executive level",
+    "duration": 38,
+    "test_type": [
+      "Cognitive",
+      "Ability"
+    ],
+    "adaptive_support": "Yes",
+    "remote_support": "Yes"
+  }
+]
